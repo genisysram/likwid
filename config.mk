@@ -8,7 +8,8 @@
 # configuration options setup steps.
 # Supported: GCC, CLANG, ICC, MIC (ICC), GCCX86 (for 32bit systems)
 # GCCARMv8, GCCARMv7 and GCCPOWER
-COMPILER = GCC#NO SPACE
+#COMPILER = GCC#NO SPACE
+COMPILER = GCCPOWER#NO SPACE
 
 # Path were to install likwid
 PREFIX ?= /usr/local#NO SPACE
